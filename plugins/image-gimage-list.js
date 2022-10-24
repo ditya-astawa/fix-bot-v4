@@ -11,7 +11,7 @@ ${htki}  📺 IMAGE SEARCH 🔎  ${htka}
 Ketik ulang *${usedPrefix + command}* teks anda untuk mengubah teks lagi
 
 Donasi :
-Nomor Developer : wa.me/6282127487538
+Nomor Developer : wa.me/6285237596750
 Nomor Owner Bot : wa.me/${nomorown}`
 //yang hapus nomor developer mudah-mudahan banyak crash
 const sections = [
